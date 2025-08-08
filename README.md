@@ -12,11 +12,12 @@ This repository features a professional **retail sales dashboard built in Micros
 - **Segment-wise Performance**: Donut chart for customer segment analysis
 - **Sales by Ship Mode**: Visualizes shipping preference distribution
 - **Sales vs. Profit by Sub-Category**: Dual-axis combo chart highlighting profit issues
+
   
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard Preview](Sales%20Dashboard%20Preview.png)
+![Dashboard Preview](sales_dashboard_preview.png)
 
 
 ## 📌 Tools Used
@@ -30,15 +31,7 @@ This repository features a professional **retail sales dashboard built in Micros
 
 ## 📈 Key Insights
 
-- **West** region had the highest sales (725K) but not the highest profit.
+- **West** region had the highest sales (725K).
 - **Consumer Segment** accounted for 50% of total sales.
 - **Standard Class** shipping was used in 59% of orders.
 - Some categories (like **Tables**) had **high sales but negative profit** – indicating discount or cost issues.
-
-
-## 📂 Files Included
-
-- `Superstore_Sales_Dashboard.xlsx` – Excel file with interactive dashboard
-- `dashboard-preview.png` – Image preview of the dashboard
-- `README.md` – Project explanation and features
-
