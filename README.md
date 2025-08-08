@@ -4,6 +4,7 @@ An interactive retail sales dashboard built in Microsoft Excel using the Superst
 
 This repository features a professional **retail sales dashboard built in Microsoft Excel** using the popular Superstore dataset. It visualizes key performance indicators (KPIs), sales trends, and category insights to support data-driven business decisions.
 
+
 ## 📊 Dashboard Features
 
 - **KPI Cards**: Overall Sales, Profit, Orders, and Average Order Value
@@ -12,12 +13,6 @@ This repository features a professional **retail sales dashboard built in Micros
 - **Segment-wise Performance**: Donut chart for customer segment analysis
 - **Sales by Ship Mode**: Visualizes shipping preference distribution
 - **Sales vs. Profit by Sub-Category**: Dual-axis combo chart highlighting profit issues
-
-  
-
-## 📊 Dashboard Preview
-
-![Dashboard Preview](Sales_Dashboard_Preview.png)
 
 
 ## 📌 Tools Used
