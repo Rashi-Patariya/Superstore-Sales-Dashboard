@@ -17,7 +17,7 @@ This repository features a professional **retail sales dashboard built in Micros
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](sales_dashboard_preview.png)
+![Dashboard Preview](Sales_Dashboard_Preview.png)
 
 
 ## 📌 Tools Used
