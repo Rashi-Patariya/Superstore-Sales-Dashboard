@@ -12,31 +12,11 @@ This repository features a professional **retail sales dashboard built in Micros
 - **Segment-wise Performance**: Donut chart for customer segment analysis
 - **Sales by Ship Mode**: Visualizes shipping preference distribution
 - **Sales vs. Profit by Sub-Category**: Dual-axis combo chart highlighting profit issues
+  
 
+## 📊 Dashboard Preview
 
-## 🖼️ Dashboard Preview
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Sales Dashboard Preview](Sales%20Dashboard%20Preview.png)
 
 
 ## 📌 Tools Used
