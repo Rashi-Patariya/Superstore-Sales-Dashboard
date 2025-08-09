@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard (
+# Superstore Sales Dashboard 
 
 ## Project Overview
 
@@ -6,8 +6,8 @@ This project showcases an interactive sales dashboard built in Microsoft Excel u
 The dashboard provides a visual representation of key business metrics, enabling quick insights into sales performance, profitability, and order trends.
 
 
-## Dashboard preview
-![Superstore Sales Dashboard](Sales_Dashboard_Preview.png)
+## Dashboard preview  
+![Superstore Sales Dashboard](Superstore_Dashboard_Preview.png)
 
 ## Dataset Information
 
