@@ -1,28 +1,28 @@
-# Superstore Sales Dashboard (Excel)
+# Superstore Sales Dashboard (
 
-## 📊 Project Overview
+## Project Overview
 
 This project showcases an interactive sales dashboard built in Microsoft Excel using the Superstore dataset.
 The dashboard provides a visual representation of key business metrics, enabling quick insights into sales performance, profitability, and order trends.
 
 
 ## Dashboard preview
-![Superstore Sales Dashboard](Sales-Dashboard-Preview.png)
+![Superstore Sales Dashboard](Sales_Dashboard_Preview.png)
 
 ## Dataset Information
 
 The dataset contains:
-Order Date & Region
-Customer Segment
-Product Category & Sub-Category
-Sales & Profit
-Order Quantity
-Shipping Mode
+- Order Date & Region
+- Customer Segment
+- Product Category & Sub-Category
+- Sales & Profit
+- Order Quantity
+- Shipping Mode
 
 Data cleaning, preparation, and visualization were all done in Excel using pivot tables, charts, slicers, and calculated KPIs.
 
 
-## 📈 Key Insights
+## Key Insights
 
 - **West** region had the highest sales (725K).
 - **Consumer Segment** accounted for 50% of total sales.
@@ -30,7 +30,7 @@ Data cleaning, preparation, and visualization were all done in Excel using pivot
 - Some categories (like **Tables**) had **high sales but negative profit** – indicating discount or cost issues.
 
   
-## 📌 Tools Used
+## Tools Used
 
 - Microsoft Excel
   - Pivot Tables
@@ -40,7 +40,7 @@ Data cleaning, preparation, and visualization were all done in Excel using pivot
 
  ## Skills Demonstrated
 
-Data Cleaning & Transformation in Excel
-Dashboard Design & Layout
-Interactive Data Visualization
-Sales & Profitability Analysis
+- Data Cleaning & Transformation in Excel
+- Dashboard Design & Layout
+- Interactive Data Visualization
+- Sales & Profitability Analysis
